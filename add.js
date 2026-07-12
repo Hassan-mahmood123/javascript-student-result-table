@@ -51,7 +51,7 @@ document.write(
 "<td>" + englishNum2 + "</td>" +
 "<td>" + englishNum3 + "</td>" +
 "<td>" + englishadd + "</td>" +
-"</tr>" +
+"</tr>"+
 
 "<tr>" +
 "<td>Science</td>" +
@@ -59,7 +59,7 @@ document.write(
 "<td>" + scienceNum2 + "</td>" +
 "<td>" + scienceNum3 + "</td>" +
 "<td>" + scienceadd + "</td>" +
-"</tr>" +
+"</tr>"+
 
 "<tr>" +
 "<td>Urdu</td>" +
@@ -67,7 +67,7 @@ document.write(
 "<td>" + urduNum2 + "</td>" +
 "<td>" + urduNum3 + "</td>" +
 "<td>" + urduadd + "</td>" +
-"</tr>" +
+"</tr>"+
 
 "<tr>" +
 "<td>Physices</td>" +
